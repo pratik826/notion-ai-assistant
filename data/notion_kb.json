@@ -1,0 +1,648 @@
+{
+  "meta": {
+    "company": "Notion",
+    "last_checked": "2026-10-01",
+    "pricing_page": "https://www.notion.com/pricing"
+  },
+  "records": [
+    {
+      "id": "company-overview",
+      "category": "company",
+      "topic": "What Notion is",
+      "question": "What is Notion?",
+      "answer": "Notion describes itself as an all-in-one workspace that blends much of your workflow into one place. You can customize your own workspace from dozens of building blocks. Its main product areas are Notion AI, Docs, Projects, Wikis and Notion Calendar.",
+      "keywords": ["notion", "what is notion", "about notion", "about", "overview", "company", "all-in-one workspace", "workspace", "tell me about notion"],
+      "source_url": "https://www.notion.com/about"
+    },
+    {
+      "id": "company-mission",
+      "category": "company",
+      "topic": "Notion mission",
+      "question": "What is Notion's mission?",
+      "answer": "Notion's stated mission is to help everyone shape the tools that shape their lives. Notion also describes itself as a tool company that exists to help its customers do their life's work.",
+      "keywords": ["mission", "vision", "values", "purpose", "why notion", "goal", "company mission", "shape the tools"],
+      "source_url": "https://www.notion.com/careers"
+    },
+    {
+      "id": "company-leadership",
+      "category": "company",
+      "topic": "Notion leadership",
+      "question": "Who is the CEO of Notion?",
+      "answer": "Notion's careers page lists Ivan Zhao as CEO & Founder. I don't have more details about the wider founding team.",
+      "keywords": ["ceo", "founder", "who founded notion", "who runs notion", "ivan zhao", "leadership", "chief executive"],
+      "source_url": "https://www.notion.com/careers"
+    },
+    {
+      "id": "company-customers",
+      "category": "company",
+      "topic": "Teams that use Notion",
+      "question": "Which companies use Notion?",
+      "answer": "Notion's pricing page says it is trusted by teams at companies including OpenAI, Figma, Volvo, Ramp and Cursor.",
+      "keywords": ["customers", "who uses notion", "companies", "trusted by", "clients", "openai", "figma", "volvo", "ramp", "cursor"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "products-overview",
+      "category": "products",
+      "topic": "Notion product areas",
+      "question": "What products does Notion offer?",
+      "answer": "Notion's main product areas are Notion AI (Notion Agent, Custom Agents, AI Meeting Notes and Enterprise Search), a knowledge base (wikis), Docs, Projects, Connections to other apps, Security and Notion Calendar. Notion's Docs page says wikis and projects are included for the same price.",
+      "keywords": ["products", "what does notion offer", "what can notion do", "product list", "offerings", "services", "features overview", "modules"],
+      "source_url": "https://www.notion.com/product/docs"
+    },
+    {
+      "id": "products-docs",
+      "category": "products",
+      "topic": "Notion Docs",
+      "question": "What is Notion Docs?",
+      "answer": "Notion describes Docs as the next generation of notes and docs, built from flexible building blocks so teams can communicate more efficiently. People can comment and co-edit in the same page.",
+      "keywords": ["docs", "documents", "notes", "note taking", "notion docs", "pages"],
+      "source_url": "https://www.notion.com/product/docs"
+    },
+    {
+      "id": "products-projects",
+      "category": "products",
+      "topic": "Notion Projects",
+      "question": "What is Notion Projects?",
+      "answer": "Notion Projects lets you manage projects from beginning to end in a connected workspace, with less context switching. It uses databases, timeline views, charts, tasks and sub-tasks, and you can set up the workflow your team needs.",
+      "keywords": ["projects", "project management", "task management", "tasks", "manage projects", "notion projects", "roadmap", "tracking"],
+      "source_url": "https://www.notion.com/product/projects"
+    },
+    {
+      "id": "products-wikis",
+      "category": "products",
+      "topic": "Notion Wikis",
+      "question": "Can I use Notion as a company wiki or knowledge base?",
+      "answer": "Yes. Notion's wiki (knowledge base) centralizes your team's knowledge. Everyone can contribute with drag-and-drop organization, you can link pages by typing @, and a 'Welcome home' space shows your most relevant docs, notes and tasks. Notion also lists fine-grained admin roles and advanced permissions.",
+      "keywords": ["wiki", "wikis", "knowledge base", "company wiki", "internal wiki", "team knowledge"],
+      "source_url": "https://www.notion.com/product/wikis"
+    },
+    {
+      "id": "products-calendar",
+      "category": "products",
+      "topic": "Notion Calendar",
+      "question": "What is Notion Calendar and which calendars does it work with?",
+      "answer": "Notion Calendar is a calendar app that works with your Notion workspace, and Notion says you can get it free. Its product page says it syncs with Google Calendar, Outlook and Apple iCloud calendars and is available on iPhone and Android. That page may not be fully current, so please check notion.com/product/calendar for the latest details.",
+      "keywords": ["calendar", "notion calendar", "google calendar", "outlook", "icloud", "apple calendar", "schedule", "mobile calendar"],
+      "source_url": "https://www.notion.com/product/calendar"
+    },
+    {
+      "id": "features-doc-blocks",
+      "category": "features",
+      "topic": "What you can put in a doc",
+      "question": "What kinds of content can I add to a Notion doc?",
+      "answer": "Notion docs go beyond text and bullet points. They support code snippets with syntax highlighting for dozens of languages, collapsible toggles, a table of contents that updates automatically, live charts, and images and videos (embedded from Loom and YouTube or uploaded). Notion says there are 50+ content types in total.",
+      "keywords": ["content types", "blocks", "code snippets", "toggles", "table of contents", "embed", "images", "videos", "doc features", "formatting"],
+      "source_url": "https://www.notion.com/product/docs"
+    },
+    {
+      "id": "features-project-tracking",
+      "category": "features",
+      "topic": "Project tracking features",
+      "question": "What project management features does Notion have?",
+      "answer": "Notion Projects includes databases, timeline views, charts and dashboards, custom properties (such as priority labels and status tags), filters and sorting, tasks and sub-tasks, status, assignee and due date, dependencies, a My tasks view and a progress bar. Database views range from calendars to boards.",
+      "keywords": ["project tracking", "tasks", "subtasks", "dependencies", "timeline", "board", "assignee", "due date", "progress bar", "filters", "my tasks"],
+      "source_url": "https://www.notion.com/product/projects"
+    },
+    {
+      "id": "features-project-sprints",
+      "category": "features",
+      "topic": "Sprints and engineering workflows",
+      "question": "Can Notion handle sprints and engineering work?",
+      "answer": "Yes. Notion says engineering and product teams get out-of-the-box workflows to groom the backlog, organize sprints and track bugs. Every task has its own page with the project information, so PRDs can sit alongside sprint plans.",
+      "keywords": ["sprints", "backlog", "bugs", "bug tracking", "engineering", "prd", "roadmap"],
+      "source_url": "https://www.notion.com/product/projects"
+    },
+    {
+      "id": "features-charts-dashboards",
+      "category": "features",
+      "topic": "Charts and dashboards",
+      "question": "Does Notion have charts and dashboards?",
+      "answer": "Yes. You can visualize database data as donut, bar and line charts. The Free plan includes 1 chart, and Plus, Business and Enterprise include unlimited charts. Notion's pricing page also lists dashboards for bringing charts, tables and lists into one view of your work.",
+      "keywords": ["charts", "graphs", "dashboard", "dashboards", "visualize", "bar chart", "line chart", "donut chart"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "features-forms",
+      "category": "features",
+      "topic": "Forms by plan",
+      "question": "Does Notion have forms?",
+      "answer": "Yes. Forms let you capture, organize and act on responses inside Notion. Free includes basic forms. Plus adds custom forms, including removing Notion branding from public forms. Business and Enterprise add custom forms with conditional logic.",
+      "keywords": ["forms", "form builder", "collect responses", "conditional logic", "custom forms", "public form", "branding"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "features-sites-publishing",
+      "category": "features",
+      "topic": "Sites and publishing",
+      "question": "Can I publish a Notion page as a website?",
+      "answer": "Yes. You can publish a Notion page to the web. Free includes basic sites and Plus adds custom sites (custom header, light or dark theme, custom favicon and Google Analytics). Free allows 1 notion.site domain and paid plans allow 5, search engine indexing is basic on Free and advanced on paid plans, and connecting your own custom domain is an extra per-domain charge.",
+      "keywords": ["sites", "publish", "website", "web publishing", "notion.site", "custom domain", "seo", "search engine indexing", "public page"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "features-automations",
+      "category": "features",
+      "topic": "Automations by plan",
+      "question": "Does Notion support automations?",
+      "answer": "Yes. Automations can create pages and new blocks and set status, assignee and property values, among other things. Free includes basic automations (buttons only), Plus adds custom database automations, and Business and Enterprise include the same as Plus.",
+      "keywords": ["automation", "automations", "workflow automation", "buttons", "database automations", "automate"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "features-connections",
+      "category": "features",
+      "topic": "App connections",
+      "question": "Which apps does Notion integrate with?",
+      "answer": "Notion's product pages highlight connections with Figma (share the latest designs), GitHub (pull requests, issues and repos), Slack (paste a link to see the full message), Jira (bug updates or turning a project into a database) and Amplitude (release metrics and experiment results). Notion also mentions Asana and Google Drive. Notion has a connections gallery for the full list.",
+      "keywords": ["integrations", "connections", "integrate", "slack", "github", "jira", "figma", "amplitude", "asana", "google drive", "connect apps"],
+      "source_url": "https://www.notion.com/product/docs"
+    },
+    {
+      "id": "features-developer-tools",
+      "category": "features",
+      "topic": "Developer platform",
+      "question": "Does Notion have an API for developers?",
+      "answer": "Notion's pricing page lists a developer platform with a public API for building custom integrations, webhooks for real-time updates, a CLI, and embeds and link previews. Workers (Beta) let you run custom code on Notion to extend agents, sync data and trigger workflows, and are listed as requiring Notion credits. For which plans include each item, please check notion.com/pricing.",
+      "keywords": ["api", "public api", "developers", "webhooks", "cli", "workers", "custom code", "build integrations", "developer platform", "embeds"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "ai-overview",
+      "category": "ai",
+      "topic": "Notion AI overview",
+      "question": "What can Notion AI do?",
+      "answer": "Notion AI is a built-in teammate that works inside your pages, docs, tasks and databases. It includes Notion Agent (takes on tasks and creates or edits pages and databases), Custom Agents (automate recurring team work), Enterprise Search (search across your workspace and connected apps), AI Meeting Notes, Research Mode for detailed reports, AI blocks for drafting and improving writing, and database Autofill.",
+      "keywords": ["notion ai", "ai", "artificial intelligence", "ai features", "what can notion ai do", "assistant", "generate", "summarize", "research mode", "ai blocks"],
+      "source_url": "https://www.notion.com/product/ai"
+    },
+    {
+      "id": "ai-included-plans",
+      "category": "ai",
+      "topic": "Which plans include Notion AI",
+      "question": "Is Notion AI included in my plan?",
+      "answer": "Notion AI is included with the Business and Enterprise plans, with core features like Notion Agent, AI Meeting Notes and Enterprise Search. Workspaces on other plans get a limited amount of trial usage. Business and Enterprise include a usage allowance for certain Notion AI features.",
+      "keywords": ["notion ai", "ai included", "ai plan", "free plan ai", "plus ai", "business ai", "ai trial", "ai cost", "is ai free", "which plan has ai"],
+      "source_url": "https://www.notion.com/product/ai"
+    },
+    {
+      "id": "ai-notion-agent",
+      "category": "ai",
+      "topic": "Notion Agent",
+      "question": "What is Notion Agent?",
+      "answer": "Notion Agent completes complex, multi-step tasks using context from Notion, your connected apps and the web. Notion says anything you can do in Notion, your Notion Agent can do for you, including building and editing pages and databases. It is included with Business and Enterprise, and Free and Plus get a limited trial.",
+      "keywords": ["notion agent", "agent", "ai agent", "personal agent", "multi-step tasks", "ai assistant", "chat with notion", "automate tasks"],
+      "source_url": "https://www.notion.com/product/ai"
+    },
+    {
+      "id": "ai-custom-agents",
+      "category": "ai",
+      "topic": "Custom Agents",
+      "question": "What are Custom Agents?",
+      "answer": "Custom Agents automate recurring work for your whole team. You set a trigger or schedule and the agent runs 24/7, whether you are online or not. One person builds it and the whole team benefits. Notion's examples include answering questions on Slack, routing tasks and sharing project updates. Custom Agents run on Notion credits, which are an add-on for Business and Enterprise plans.",
+      "keywords": ["custom agents", "custom agent", "automate", "recurring work", "schedule", "trigger", "slack agent", "credits", "autonomous agents"],
+      "source_url": "https://www.notion.com/product/ai"
+    },
+    {
+      "id": "ai-meeting-notes",
+      "category": "ai",
+      "topic": "AI Meeting Notes",
+      "question": "Can Notion transcribe and summarize my meetings?",
+      "answer": "Yes. AI Meeting Notes automatically transcribe your meetings along with a helpful summary and help automate follow-ups, with no bot needed. It is included on Business and Enterprise, and Free and Plus have a limited trial.",
+      "keywords": ["meeting notes", "ai meeting notes", "transcribe", "transcription", "meeting summary", "follow-ups", "meetings"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "ai-enterprise-search",
+      "category": "ai",
+      "topic": "Enterprise Search",
+      "question": "Can Notion search across my other apps?",
+      "answer": "Yes. Enterprise Search finds quick answers using information across your Notion workspace and connected tools like Slack, Microsoft Teams, GitHub and more. It is labeled Beta, and connections to Jira, Box, OneDrive, Salesforce and Asana are currently in Beta. It is listed under the Business plan and above.",
+      "keywords": ["enterprise search", "search", "search apps", "connected apps search", "find answers", "slack search", "github search", "beta search"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "ai-autofill",
+      "category": "ai",
+      "topic": "Database Autofill",
+      "question": "How does AI Autofill work in databases?",
+      "answer": "Autofill has two options. Basic Autofill suits simple fills like summaries, tagging and translation, is included in Business and Enterprise, and does not use Notion credits or read the web. Custom Agent Autofill handles more complex work like web or workspace search and multi-step instructions, and it uses Notion credits. Creating a database with Notion AI is free on Business and Enterprise.",
+      "keywords": ["autofill", "ai autofill", "database ai", "auto fill", "tagging", "summaries", "translation", "properties", "ai databases"],
+      "source_url": "https://www.notion.com/help/autofill"
+    },
+    {
+      "id": "ai-usage-allowance",
+      "category": "ai",
+      "topic": "AI usage allowance",
+      "question": "Is Notion AI usage limited?",
+      "answer": "Yes. Business and Enterprise plans include a usage allowance for certain Notion AI features, such as your personal Notion Agent, image generation and page translation. Notion says you can track your rolling and monthly usage in Settings → Notion AI → Usage. I don't have the numeric size of the allowance. Workspace admins can let members keep going by spending Notion credits.",
+      "keywords": ["usage allowance", "ai limit", "ai limits", "usage limit", "quota", "ai usage", "fair use", "how much ai", "unlimited ai"],
+      "source_url": "https://www.notion.com/help/manage-your-usage-allowance-for-notion-ai"
+    },
+    {
+      "id": "ai-premium-models",
+      "category": "ai",
+      "topic": "Premium AI models",
+      "question": "Do premium AI models cost extra?",
+      "answer": "Some models are part of your plan and do not spend Notion credits. Premium models cost much more to run, so using them spends Notion credits. Premium models are off in every workspace until a workspace owner or admin turns them on in Settings → Notion AI, and admins decide how many credits each person can spend.",
+      "keywords": ["premium models", "model picker", "ai models", "which model", "credits", "notion credits", "extra cost ai", "model cost"],
+      "source_url": "https://www.notion.com/help/notion-agent"
+    },
+    {
+      "id": "ai-data-privacy",
+      "category": "ai",
+      "topic": "AI and your data",
+      "question": "Does Notion AI use my data to train its models?",
+      "answer": "Notion says Notion AI will not use your data to train its models unless you opt in to a request to share your data. Information used to power Notion AI is shared with AI subprocessors only to provide the features, and contractual agreements prohibit them from training on customer data. Notion also says that when you use Notion AI, your data is encrypted in transit using TLS 1.2 or greater.",
+      "keywords": ["ai privacy", "data privacy", "training data", "train models", "is my data safe", "encryption", "subprocessors", "ai security", "data used for training"],
+      "source_url": "https://www.notion.com/product/ai"
+    },
+    {
+      "id": "ai-data-retention",
+      "category": "ai",
+      "topic": "AI data retention",
+      "question": "How long do AI providers keep my data?",
+      "answer": "Notion says there is zero data retention with its LLM providers for Enterprise workspaces, meaning no data is stored with them. For non-Enterprise plans, there is a 30-day retention period.",
+      "keywords": ["data retention", "zero data retention", "retention", "llm providers", "30 day retention", "enterprise data", "stored data", "ai data storage"],
+      "source_url": "https://www.notion.com/product/ai"
+    },
+    {
+      "id": "collab-docs-editing",
+      "category": "collaboration",
+      "topic": "Co-editing and comments",
+      "question": "Can multiple people edit and comment on the same page?",
+      "answer": "Yes. Notion lets others comment or suggest edits and co-edit together, and you can type @ to get someone's attention. Comments give a consolidated view of feedback, which Notion says makes it easy to iterate asynchronously, even across time zones.",
+      "keywords": ["collaborate", "collaboration", "co-edit", "comments", "mentions", "teamwork", "work together", "feedback", "suggest edits"],
+      "source_url": "https://www.notion.com/product/docs"
+    },
+    {
+      "id": "collab-guests",
+      "category": "collaboration",
+      "topic": "Guests",
+      "question": "Can I invite people outside my company, and do they cost extra?",
+      "answer": "Yes. Guests are external collaborators such as agencies, partners, contractors or vendors. Guests are free of charge, but they can only access the individual pages they are invited to. The Free plan allows up to 10 external guests, and Plus, Business and Enterprise allow unlimited guests.",
+      "keywords": ["guests", "external collaborators", "invite", "contractors", "clients", "share with outsiders", "guest limit", "external users", "free guests"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "collab-teamspaces",
+      "category": "collaboration",
+      "topic": "Teamspaces",
+      "question": "What are teamspaces?",
+      "answer": "Teamspaces are dedicated areas for people to work together without creating information silos, and people can join the ones that interest them and leave the rest. Notion's pricing page lists open and closed teamspaces. Private teamspaces can't be seen or discovered by anyone except those you add, which suits sensitive information like company planning or performance reviews, and are included from the Business plan.",
+      "keywords": ["teamspaces", "teamspace", "private teamspace", "team areas", "silos", "private spaces", "sensitive information", "organize teams"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "collab-permissions",
+      "category": "collaboration",
+      "topic": "Permissions and verified pages",
+      "question": "How do permissions and access control work?",
+      "answer": "Business adds granular database permissions, which let you collaborate in a database without giving access to the whole database by limiting a collaborator to the rows assigned to them. Business also adds Verify any page, a verified badge for up-to-date pages that appears in search results and AI citations. Notion's pricing page also lists permission groups and advanced teamspace permissions; please check notion.com/pricing for which plans include them.",
+      "keywords": ["permissions", "access control", "granular permissions", "database permissions", "permission groups", "verify page", "verified badge", "view or edit", "who can see"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "pricing-overview",
+      "category": "pricing",
+      "topic": "Plans and prices overview",
+      "question": "What plans does Notion offer and how much do they cost?",
+      "answer": "Notion has four plans: Free, Plus, Business and Enterprise. As displayed on Notion's pricing page, Free is $0, Plus is $10 and Business is $20 per member per month, and Enterprise has custom pricing (contact sales). I can't confirm whether the Plus and Business figures are for monthly or yearly billing, so please check notion.com/pricing for the exact current prices.",
+      "keywords": ["pricing", "price", "prices", "cost", "how much", "plans", "plans and pricing", "subscription", "pricing plans", "what does notion cost"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "All plans",
+      "displayed_price": "Free: $0; Plus: $10; Business: $20; Enterprise: Custom pricing",
+      "billing_unit": "per member/month",
+      "pricing_status": "displayed_on_page"
+    },
+    {
+      "id": "pricing-free",
+      "category": "pricing",
+      "topic": "Free plan price",
+      "question": "Is Notion free, and how much does the Free plan cost?",
+      "answer": "The Free plan is $0 per member per month, as shown on Notion's pricing page, and is for individuals to organize personal projects and life. A Free workspace used by one person has unlimited pages and blocks, while one with multiple members has a block limit. Free includes a trial of Notion AI, basic forms, basic sites, Notion Calendar, and databases with subtasks, dependencies and custom properties.",
+      "keywords": ["free", "free plan", "free tier", "is notion free", "is it free", "free version", "free to use", "price", "cost", "$0", "no cost", "personal plan", "do i have to pay"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "Free",
+      "displayed_price": "$0",
+      "billing_unit": "per member/month",
+      "pricing_status": "verified"
+    },
+    {
+      "id": "pricing-plus",
+      "category": "pricing",
+      "topic": "Plus plan price",
+      "question": "How much does the Notion Plus plan cost?",
+      "answer": "The Plus plan is shown on Notion's pricing page at $10 per member per month, for small teams and professionals who work together. I can't confirm whether that figure is for monthly or yearly billing, so please check notion.com/pricing for the exact amount for your billing option and currency.",
+      "keywords": ["plus", "plus plan", "price", "pricing", "cost", "how much", "per member", "per month", "small teams", "$10"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "Plus",
+      "displayed_price": "$10",
+      "billing_unit": "per member/month",
+      "pricing_status": "displayed_on_page"
+    },
+    {
+      "id": "pricing-business",
+      "category": "pricing",
+      "topic": "Business plan price",
+      "question": "How much does the Notion Business plan cost?",
+      "answer": "The Business plan is shown on Notion's pricing page at $20 per member per month, for growing businesses to streamline teamwork. It includes Notion AI features like Notion Agent and AI Meeting Notes. I can't confirm whether that figure is for monthly or yearly billing, so please check notion.com/pricing for the exact amount for your billing option and currency.",
+      "keywords": ["business", "business plan", "price", "pricing", "cost", "how much", "per member", "per month", "growing businesses", "$20"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "Business",
+      "displayed_price": "$20",
+      "billing_unit": "per member/month",
+      "pricing_status": "displayed_on_page"
+    },
+    {
+      "id": "pricing-enterprise",
+      "category": "pricing",
+      "topic": "Enterprise plan price",
+      "question": "How much does the Notion Enterprise plan cost?",
+      "answer": "Enterprise has custom pricing, so no price is listed. Notion's pricing page directs you to contact sales. The plan is for organizations that need scalability, control and security, and includes everything in Business plus extras such as SCIM user provisioning, an audit log and zero data retention with LLM providers.",
+      "keywords": ["enterprise", "enterprise plan", "enterprise price", "custom pricing", "contact sales", "enterprise cost"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "Enterprise",
+      "displayed_price": "Custom pricing",
+      "billing_unit": "not stated (contact sales)",
+      "pricing_status": "verified"
+    },
+    {
+      "id": "pricing-billing-options",
+      "category": "pricing",
+      "topic": "Monthly vs yearly billing",
+      "question": "Is Notion cheaper if I pay yearly instead of monthly?",
+      "answer": "Notion's pricing page has a 'Pay monthly / Pay yearly' option and says you can save up to 20% with yearly billing. I can't confirm which billing option the displayed $10 (Plus) and $20 (Business) figures represent, so please open notion.com/pricing, choose your billing option and check the exact price.",
+      "keywords": ["monthly", "yearly", "annual", "pay monthly", "pay yearly", "billing cycle", "discount", "save 20%", "monthly price", "annual price", "billing options"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "Plus and Business",
+      "displayed_price": "$10 (Plus) and $20 (Business) as displayed",
+      "billing_unit": "per member/month",
+      "pricing_status": "displayed_on_page"
+    },
+    {
+      "id": "pricing-currency",
+      "category": "pricing",
+      "topic": "Currency and regional prices",
+      "question": "Can I see prices in my own currency, such as INR?",
+      "answer": "Notion's pricing page shows prices in USD ('Price in USD'). I don't have prices in other currencies or for specific regions, and I can't confirm taxes or local pricing, so please check notion.com/pricing for your currency.",
+      "keywords": ["currency", "inr", "rupees", "india", "usd", "dollars", "local price", "regional pricing", "price in my country"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "All plans",
+      "displayed_price": "USD",
+      "billing_unit": "per member/month",
+      "pricing_status": "displayed_on_page"
+    },
+    {
+      "id": "pricing-custom-agent-credits",
+      "category": "pricing",
+      "topic": "Custom Agents and Notion credits",
+      "question": "How much do Custom Agents and Notion credits cost?",
+      "answer": "Custom Agents are free to try. After that, Notion's pricing page displays $10 per 1,000 monthly Notion credits. Credits are an add-on for Business and Enterprise plans. Please check notion.com/pricing for current credit details.",
+      "keywords": ["credits", "notion credits", "custom agents price", "agent cost", "add-on", "1000 credits", "ai add-on", "credit pricing"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "Custom Agents (add-on)",
+      "displayed_price": "$10 per 1,000 monthly Notion credits",
+      "billing_unit": "per 1,000 monthly Notion credits",
+      "pricing_status": "displayed_on_page"
+    },
+    {
+      "id": "pricing-custom-domains",
+      "category": "pricing",
+      "topic": "Custom domains price",
+      "question": "How much does it cost to use my own domain for a Notion site?",
+      "answer": "Connecting a custom domain to your Site and removing Notion branding costs $8 per month per domain if paid annually, or $10 per month per domain if paid monthly, according to Notion's pricing page. It is charged per domain on top of your plan.",
+      "keywords": ["custom domain", "own domain", "domain", "remove branding", "notion branding", "site domain", "domain cost", "per domain"],
+      "source_url": "https://www.notion.com/pricing",
+      "plan": "Custom domains (add-on)",
+      "displayed_price": "$8/month per domain (annual) or $10/month per domain (monthly)",
+      "billing_unit": "per domain/month",
+      "pricing_status": "verified"
+    },
+    {
+      "id": "plan-diff-limits",
+      "category": "plan_differences",
+      "topic": "Limits by plan",
+      "question": "What are the page history, file upload and guest limits on each plan?",
+      "answer": "Page history is 7 days on Free, 30 days on Plus, 90 days on Business and unlimited on Enterprise. File uploads are up to 5 MB each on Free, and paid plans allow unlimited uploads with about a 5 GB maximum per file. External guests are limited to 10 on Free and unlimited on paid plans. Free includes 1 chart and 1 notion.site domain, while paid plans include unlimited charts and 5 domains.",
+      "keywords": ["limits", "page history", "version history", "file upload", "file size", "5 mb", "guest limit", "plan limits", "compare limits", "restore page"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "plan-diff-free-vs-plus",
+      "category": "plan_differences",
+      "topic": "Free vs Plus",
+      "question": "What do I get with Plus that I don't get with Free?",
+      "answer": "Compared with Free, Plus adds unlimited collaborative blocks, unlimited file uploads, unlimited charts, custom forms, custom sites, basic connections (such as Slack and Google Drive), custom database automations, 30-day page history instead of 7 days and unlimited guests. Both Free and Plus include only a trial of Notion AI.",
+      "keywords": ["free vs plus", "plus vs free", "upgrade to plus", "why upgrade", "what does plus add", "difference free plus", "plus features"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "plan-diff-plus-vs-business",
+      "category": "plan_differences",
+      "topic": "Plus vs Business",
+      "question": "What do I get with Business that I don't get with Plus?",
+      "answer": "Compared with Plus, Business adds Notion Agent, AI Meeting Notes, Enterprise Search (Beta), SAML SSO, granular database permissions, Verify any page, private teamspaces, domain verification and premium connections (such as GitHub and Asana). It also has 90-day page history, forms with conditional logic and advanced page analytics.",
+      "keywords": ["plus vs business", "business vs plus", "upgrade to business", "business features", "sso", "saml", "private teamspaces", "premium connections", "difference plus business"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "plan-diff-business-vs-enterprise",
+      "category": "plan_differences",
+      "topic": "Business vs Enterprise",
+      "question": "What do I get with Enterprise that I don't get with Business?",
+      "answer": "Compared with Business, Enterprise adds zero data retention with LLM providers, SCIM user provisioning, advanced security and controls, an audit log, a customer success manager, SIEM and DLP security and compliance connections, domain management, advanced connections, unlimited page history and workspace analytics.",
+      "keywords": ["business vs enterprise", "enterprise vs business", "enterprise features", "scim", "audit log", "dlp", "siem", "security controls", "customer success manager", "compliance"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "plan-diff-which-plan",
+      "category": "plan_differences",
+      "topic": "Choosing a plan",
+      "question": "Which Notion plan is right for me?",
+      "answer": "Notion describes Free as for individuals organizing personal projects and life, Plus as for small teams and professionals working together, Business as for growing businesses streamlining teamwork (and it includes Notion AI), and Enterprise as for organizations needing scalability, control and security. Plus (with a 1-member limit) is also free for students and educators.",
+      "keywords": ["which plan", "best plan", "recommend plan", "choose plan", "right plan", "small team", "individual", "business use", "what should i pick"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "use-case-roles",
+      "category": "use_cases",
+      "topic": "Use cases by role",
+      "question": "How do different teams use Notion?",
+      "answer": "Notion's Docs page highlights product managers (connect the roadmap to goals and keep everyone aligned on what is shipping), designers (move review rounds forward, prioritize requests and hit creative deadlines) and engineers (ship features faster with sprints, code guidelines and bug fixes in one place).",
+      "keywords": ["use cases", "who uses notion", "product managers", "designers", "engineers", "teams", "roadmap", "roles", "how to use notion", "examples"],
+      "source_url": "https://www.notion.com/product/docs"
+    },
+    {
+      "id": "use-case-ai-workflows",
+      "category": "use_cases",
+      "topic": "AI use cases",
+      "question": "What are some example use cases for Notion AI?",
+      "answer": "Notion's AI page highlights these examples: onboard a new hire, go from brainstorm to roadmap, automate weekly reporting, triage product feedback, resolve support tickets in Slack, and respond to security alerts faster.",
+      "keywords": ["ai use cases", "ai examples", "onboarding", "weekly reporting", "triage feedback", "support tickets", "brainstorm", "roadmap", "what can i do with ai"],
+      "source_url": "https://www.notion.com/product/ai"
+    },
+    {
+      "id": "use-case-personal",
+      "category": "use_cases",
+      "topic": "Personal use",
+      "question": "Can I use Notion for personal projects?",
+      "answer": "Yes. Notion describes the Free plan as for individuals to organize personal projects and life. If you are the only member, you can add unlimited pages and blocks.",
+      "keywords": ["personal use", "personal projects", "individual", "solo", "life organization", "personal notes", "for myself"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "use-case-templates",
+      "category": "use_cases",
+      "topic": "Templates",
+      "question": "Does Notion have templates to get started?",
+      "answer": "Yes. Notion has a template gallery. Its Docs page shows templates for meeting notes, a design system, project requirements (PRD) and a pitch deck, and you can duplicate them into your own workspace.",
+      "keywords": ["templates", "template gallery", "starter", "meeting notes template", "prd template", "pitch deck", "design system", "get started fast", "examples"],
+      "source_url": "https://www.notion.com/product/docs"
+    },
+    {
+      "id": "faq-getting-started",
+      "category": "faq",
+      "topic": "Getting started",
+      "question": "How do I get started with Notion?",
+      "answer": "You can sign up free at notion.com/signup ('Get Notion free'). Notion says you can play around with it first and pay and add your team later. If you want to talk to Notion's team or request a demo, use notion.com/contact-sales.",
+      "keywords": ["get started", "sign up", "signup", "start", "create account", "try notion", "demo", "request a demo", "contact sales", "begin"],
+      "source_url": "https://www.notion.com/product/docs"
+    },
+    {
+      "id": "faq-student-discount",
+      "category": "faq",
+      "topic": "Student and educator offer",
+      "question": "Does Notion offer student discounts?",
+      "answer": "Yes. The Plus plan (with a 1-member limit) is free for students and educators. Compared with the Free plan, you get more guests, more version history and larger file uploads. Sign up with your school email address; thousands of school email domains are eligible, not just .edu.",
+      "keywords": ["student", "students", "education", "educator", "teacher", "school email", "discount", "free plus", "university", "college"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "faq-how-billing-works",
+      "category": "faq",
+      "topic": "How paid plans are billed",
+      "question": "How does billing work when I add or remove members?",
+      "answer": "Paid plans are charged per member, and guests are free. A new member uses an existing paid seat if one is available; otherwise your paid seat count goes up by 1 with a prorated charge for the rest of the billing cycle. Removing a member gives no credit, but the seat can be reused for the rest of the billing period, and seats are recalculated at each renewal.",
+      "keywords": ["billing", "seats", "paid seats", "add members", "remove members", "prorated", "per member", "charged", "how am i charged", "renewal"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "faq-change-plan",
+      "category": "faq",
+      "topic": "Upgrading and downgrading",
+      "question": "What happens when I upgrade or downgrade my plan?",
+      "answer": "When you upgrade, your account is upgraded and charged immediately, and the amount due is reduced based on how much of the billing cycle is left. When you downgrade, the change happens at the end of your billing cycle.",
+      "keywords": ["upgrade", "downgrade", "change plan", "switch plan", "move to business", "billing cycle", "plan change", "downgrade to free"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "faq-plans-per-workspace",
+      "category": "faq",
+      "topic": "Plans per workspace",
+      "question": "Can different workspaces be on different plans?",
+      "answer": "Yes. Plans apply and are billed at the workspace level, so you can have multiple workspaces per account and each can be on a different plan. Notion also notes that plan availability can vary by workspace, so not every plan may be offered to you.",
+      "keywords": ["workspace plan", "multiple workspaces", "plan per workspace", "different plans", "account vs workspace", "plan availability"],
+      "source_url": "https://www.notion.com/help/upgrade-or-downgrade-your-plan"
+    },
+    {
+      "id": "faq-cancel",
+      "category": "faq",
+      "topic": "Cancelling a subscription",
+      "question": "How do I cancel my paid plan?",
+      "answer": "Your subscription, monthly or annual, renews automatically until you cancel. On a desktop computer, go to Settings in the left sidebar, then Billing, then Change plan. After you cancel, you keep access to paid features until the end of your billing cycle.",
+      "keywords": ["cancel", "cancellation", "cancel subscription", "stop paying", "end plan", "auto renew", "billing settings"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "faq-payments",
+      "category": "faq",
+      "topic": "Payment methods and failed payments",
+      "question": "What payment methods does Notion accept and what happens if a payment fails?",
+      "answer": "Notion accepts all major credit and debit card brands, and you can change your payment method any time in your billing settings. After each failed payment your account email is notified and payments may be retried up to 8 times within the next month. If it still fails, the workspace is restricted to limited access for a period before being downgraded to the Free plan.",
+      "keywords": ["payment methods", "credit card", "debit card", "payment failed", "card expired", "change payment method", "how to pay"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "faq-refunds",
+      "category": "faq",
+      "topic": "Refund policy",
+      "question": "Can I get a refund?",
+      "answer": "Notion refunds the full amount (not pro-rated) if you downgrade within three days of signing up for monthly billing, or within 30 days of signing up for annual billing. Regions with a mandatory refund policy, such as the EU, may allow longer, for example 14 days for a monthly subscription in the EU. If you accidentally added members, you can ask for a prorated refund within three days of the invoice date after removing them; contact Notion inside the app to request any refund.",
+      "keywords": ["refund", "refunds", "money back", "refund policy", "accidental charge", "cancel and refund", "eu refund"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "faq-what-is-block",
+      "category": "faq",
+      "topic": "What a block is",
+      "question": "What is a block in Notion?",
+      "answer": "A block is any single piece of content you add to a page, such as a paragraph of text, a to-do item, an image, a code block or an embedded file. Think of a page as being made up of these building blocks.",
+      "keywords": ["block", "blocks", "what is a block", "building blocks", "content block", "page structure", "to-do", "paragraph"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "faq-contact-support",
+      "category": "faq",
+      "topic": "Getting help",
+      "question": "How do I contact Notion support?",
+      "answer": "Click the (?) button at the bottom left on desktop, or tap 'Help & support' on mobile. Notion also has a Help Center at notion.com/help.",
+      "keywords": ["support", "help", "contact support", "customer service", "help center", "get help", "assistance"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "faq-security-certifications",
+      "category": "faq",
+      "topic": "Security and compliance",
+      "question": "Which security and compliance standards does Notion list?",
+      "answer": "Notion's AI page lists SOC 2 Type 2, ISO 27001, GDPR and CCPA, and says its privacy program is mapped to the GDPR and other global privacy regulations. It also says Notion AI enables HIPAA compliance for Enterprise workspaces by using LLM providers' zero-retention APIs, which allows processing of protected health information. For full security details, see notion.com/security.",
+      "keywords": ["security", "secure", "soc 2", "iso 27001", "gdpr", "ccpa", "hipaa", "compliance", "certifications", "privacy"],
+      "source_url": "https://www.notion.com/product/ai"
+    },
+    {
+      "id": "limit-free-block-limit",
+      "category": "limitations",
+      "topic": "Free plan block limit",
+      "question": "What happens when I reach the block limit on the Free plan?",
+      "answer": "On the Free plan you can add unlimited pages and blocks if you are the only member. With multiple members there is a limit on blocks. When you reach it, you can still read, edit and organize existing blocks, but you can't add new ones until you upgrade.",
+      "keywords": ["block limit", "limit", "free plan limit", "blocks", "multiple members", "team", "upgrade", "can't add", "storage limit"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "limit-ai-pauses",
+      "category": "limitations",
+      "topic": "AI features pausing",
+      "question": "Why is Notion AI temporarily unavailable or paused?",
+      "answer": "You may have reached your workspace's rolling, six-hour or monthly usage allowance for Notion AI. Access refreshes automatically, or workspace owners on Business or Enterprise can let the team use Notion credits to keep going right away. Premium models also stay off until an admin turns them on, and pause if a person's credit limit is reached.",
+      "keywords": ["ai paused", "ai unavailable", "ai limit reached", "usage limit reached", "temporarily unavailable", "credit limit", "allowance reached"],
+      "source_url": "https://www.notion.com/help/notion-ai-faqs"
+    },
+    {
+      "id": "limit-beta-features",
+      "category": "limitations",
+      "topic": "Beta features",
+      "question": "Which Notion features are still in Beta?",
+      "answer": "Notion's pricing page labels Enterprise Search, Research Mode and Workers as Beta. For Enterprise Search, connections to Jira, Box, OneDrive, Salesforce and Asana are currently in Beta.",
+      "keywords": ["beta", "beta features", "enterprise search beta", "research mode beta", "workers beta"],
+      "source_url": "https://www.notion.com/pricing"
+    },
+    {
+      "id": "limit-founding-funding",
+      "category": "limitations",
+      "topic": "Company facts not covered",
+      "question": "When was Notion founded, and how much funding does it have?",
+      "answer": "I don't have verified information about when Notion was founded, its funding or valuation, employee count, revenue or number of users. Notion's own description of the company is at notion.com/about.",
+      "keywords": ["founded", "founding year", "when was notion founded", "funding", "valuation", "employees", "how many users", "revenue", "investors", "company size"],
+      "source_url": "https://www.notion.com/about"
+    },
+    {
+      "id": "limit-startups-program",
+      "category": "limitations",
+      "topic": "Startups program not covered",
+      "question": "Does Notion have a startup program or discount?",
+      "answer": "Notion has a page for startups at notion.com/startups, but I don't have verified details about any startup offer or eligibility. Please check that page directly.",
+      "keywords": ["startup", "startups", "startup program", "startup discount", "notion for startups", "founders discount", "early stage", "startup offer"],
+      "source_url": "https://www.notion.com/startups"
+    }
+  ]
+}
